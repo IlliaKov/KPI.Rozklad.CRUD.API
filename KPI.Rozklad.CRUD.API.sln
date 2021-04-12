@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPI.Rozklad.CRUD.API", "KPI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rozklad.CRUD.DAL", "Rozklad.CRUD.DAL\Rozklad.CRUD.DAL.csproj", "{58BCEF59-AEC1-4CB3-AA6A-85D09BC8BB4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rozklad.CRUD.BLL", "Rozklad.CRUD.BLL\Rozklad.CRUD.BLL.csproj", "{2AEAC83E-5A48-4D3F-A15D-BE14276AF2FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{58BCEF59-AEC1-4CB3-AA6A-85D09BC8BB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58BCEF59-AEC1-4CB3-AA6A-85D09BC8BB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58BCEF59-AEC1-4CB3-AA6A-85D09BC8BB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEAC83E-5A48-4D3F-A15D-BE14276AF2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEAC83E-5A48-4D3F-A15D-BE14276AF2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEAC83E-5A48-4D3F-A15D-BE14276AF2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEAC83E-5A48-4D3F-A15D-BE14276AF2FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
